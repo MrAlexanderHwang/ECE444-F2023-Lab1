@@ -9,5 +9,5 @@
 ## Activity 4
 [List of Commands](listofcommands.png)
 [Running app on docker](runningdockerapp.png)
-
+[Running app](runninglab3for4.png)
 
