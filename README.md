@@ -6,3 +6,8 @@
 ## Activity 3
 [Activity 3 Screenshot](Runninglab3.png)
 
+## Activity 4
+[List of Commands](listofcommands.png)
+[Running app on docker](runningdockerapp.png)
+
+
